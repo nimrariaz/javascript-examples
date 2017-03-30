@@ -1,2 +1,2 @@
-# javascript-examples
-This repo will contain examples of different JavaScript Concepts.
+# Javascript-Examples
+This repo contains examples of using different JavaScript Concepts.
